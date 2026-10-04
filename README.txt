@@ -1,2 +1,2 @@
-Фото игроков подгружаются с Wikimedia Commons по ссылке (нужен интернет).
-Хочешь локальные фото - положи сюда файлы и поменяй src в index.html на images/имя.jpg
+IT 2510
+Abdullakh Orynbassar
